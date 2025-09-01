@@ -39,11 +39,7 @@ My favorite project so far is an E-Learning Platform I built with a team — a r
 - [LinkedIn](#) <!-- (Add your LinkedIn link here) -->
 - [Portfolio/Website](#) <!-- (Add your personal website if you have one) -->
 
----
-<p align="center">
-  <!-- Cute hijabi girl coder animation (Royalty-free GIF from Giphy) -->
-  <img src="https://media.giphy.com/media/LmY6lTKPZmLhN6Kk7W/giphy.gif" width="200" alt="Hijabi girl coding animation" />
-</p>
+
 > “Keep learning, stay curious, and never stop building.”
 
 Thanks for visiting my profile! 😊
